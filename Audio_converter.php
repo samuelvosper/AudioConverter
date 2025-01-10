@@ -15,6 +15,7 @@ $allowedMimeTypes = array(
     'audio/mp3',
     'audio/ogg',
     'audio/x-m4a',
+    'audio/m4a',
     'audio/aac'
 );
 
